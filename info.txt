@@ -1,0 +1,4 @@
+Socket io with only node.js, express, and socket.io module.
+bring up command prompt and type 
+node index.js
+
